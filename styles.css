@@ -1,0 +1,39 @@
+.content{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: lightgray;
+  padding: 20px;
+  width: 100%;
+  }
+  
+  #display{
+  width:100%;
+  }
+  
+  #slider{
+  width:100%;
+  }
+  #length{
+  display: inline-block;
+  width:100px;
+  
+  }
+  
+  .previous_passwords{
+  margin-bottom: 20px;
+  }
+
+@media (max-width: 690px) {
+  .btn {
+    font-size: 1rem;
+    margin: 16px 0px 0px 0px;
+    padding: 10px 15px;
+  }
+
+
+
+@media (max-width: 500px) {
+  .btn {
+    font-size: 0.8rem;
+  }
+}
